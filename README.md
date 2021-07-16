@@ -1,5 +1,6 @@
 # flex
 
+[演示地址](http://lyww1992.gitee.io/flexcourse)
 
 ```
  http://lyww1992.gitee.io/flexcourse
@@ -29,6 +30,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
