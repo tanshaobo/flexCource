@@ -1,5 +1,10 @@
 # flex
 
+
+```
+ http://lyww1992.gitee.io/flexcourse
+```
+
 ## Project setup
 ```
 npm install
