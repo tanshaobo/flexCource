@@ -1,7 +1,5 @@
 module.exports = {
-  publicPath:process.env.NODE_ENV === 'production'
-    ? '/flexcourse/'
-    : '/',
+  publicPath:'./',
   outputDir:'docs',
   assetsDir:'static',
   indexPath:'index.html',
